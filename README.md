@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Takafumi Mano
 
-<!--
-**ManoTakafumi/ManoTakafumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java / Spring Bootを中心にWebアプリケーション開発を学習しています。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Sprng Boot
+- HTML / CSS
+- MySQL
+- Git / GitHub
+
+## Currently Learning
+
+- Spring Security
+- Webアプリケーション設計
+- HTML / CSS Cording
+
+## Portfolio
+
+### Talk Assist
+会話が苦手な人向けのWebアプリ
+キーワード入力から会話の話題をランダム生成します。
+
+Tech Stack
+Java / Spring Boot / MySQL
+
+### ナンプレアプリ
+ランダム生成機能付きの数独アプリ
+
+Tech Stack
+Java / Spring Boot
+
+## Contact
+
+- GitHub: https://github.com/ManoTakafumi
