@@ -1,6 +1,6 @@
 # Hi, I'm Takafumi Mano
 
-Java / Spring Bootを中心にWebアプリケーション開発を学習しています。
+現在、JavaおよびSpring Bootを中心としたWebアプリケーション開発に関する学習を進めております。
 
 ## Skills
 
