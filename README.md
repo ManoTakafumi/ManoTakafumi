@@ -1,20 +1,19 @@
-# Hi, I'm Takafumi Mano
+# Takafumi Mano | Web Developer. Thank you for checking out my GitHub repositories.
 
 現在、JavaおよびSpring Bootを中心としたWebアプリケーション開発に関する学習を進めております。
 
 ## Skills
 
-- Java
-- Sprng Boot
-- HTML / CSS
-- MySQL
-- Git / GitHub
+- **Backend:** Java, Sprng Boot
+- **Frontend:** HTML / CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git / GitHub
 
 ## Currently Learning
 
 - Spring Security
 - Webアプリケーション設計
-- HTML / CSS Cording
+- HTML / CSS / JavaScript Cording
 
 ## Portfolio
 
