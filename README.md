@@ -1,4 +1,4 @@
-# Takafumi Mano | Web Developer. Thank you for checking out my GitHub repositories.
+# Takafumi Mano | Web Developer. <br>Thank you for checking out my GitHub repositories.
 
 現在、JavaおよびSpring Bootを中心としたWebアプリケーション開発に関する学習を進めております。
 
