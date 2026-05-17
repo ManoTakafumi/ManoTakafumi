@@ -11,9 +11,9 @@
 
 ## Currently Learning
 
-- Spring Security
-- Webアプリケーション設計
-- HTML / CSS / JavaScript Cording
+- **Security:** Spring Security
+- **Architecture:** Webアプリケーション設計
+- **Frontend Development:** HTML / CSS / JavaScript Cording
 
 ## Portfolio
 
