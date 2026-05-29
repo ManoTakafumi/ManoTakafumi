@@ -17,15 +17,22 @@
 
 ## Portfolio
 
+###  Todoアプリケーション(springboot-todoapp-h2database)
+やるべきことをリスト化し整理しやすくするアプリケーションです。
+作成した日時の管理やTodoのリストを達成・未達成などに表示切り替えが行えます。
+
+Tech Stack
+Java / Spring Boot / H2Database
+
 ### Talk Assist
-会話が苦手な人向けのWebアプリ
+会話が苦手な人向けのWebアプリケーションです。
 キーワード入力から会話の話題をランダム生成します。
 
 Tech Stack
 Java / Spring Boot / MySQL
 
 ### ナンプレアプリ
-ランダム生成機能付きの数独アプリ
+ランダム生成機能付きの数独アプリケーションです。
 
 Tech Stack
 Java / Spring Boot
