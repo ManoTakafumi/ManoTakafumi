@@ -22,20 +22,28 @@
 作成した日時の管理やTodoのリストを達成・未達成などに表示切り替えが行えます。
 
 Tech Stack<br>
-Java / Spring Boot / H2Database
+Java / Spring Boot / HTML5/CSS3 / H2Database
 
 ### Talk Assist(springboot-talkassist)
 会話が苦手な人向けのWebアプリケーションです。
 キーワード入力から会話の話題をランダム生成します。
 
 Tech Stack<br>
-Java / Spring Boot / MySQL
+Java / Spring Boot / HTML5/CSS3 / MySQL
+
+### 猫育成アプリケーション(springboot-catapp)
+ボタン入力により満腹度や元気などの数値が変化し、猫との擬似的にコミュニケーションをとるアプリケーションです。<br>
+一定の数値を獲得するとレベルアップをしたり、時間経過での数値の減少などでゲーム性を作っています。
+
+Tech Stack<br>
+Java / Spring Boot / HTML5/CSS3 / JavaScript
+
 
 ### ナンプレアプリ
 ランダム生成機能付きの数独アプリケーションです。
 
 Tech Stack<br>
-Java / Spring Boot
+Java / Spring Boot / HTML5/CSS3
 
 ## Contact
 
