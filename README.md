@@ -24,7 +24,7 @@
 Tech Stack<br>
 Java / Spring Boot / H2Database
 
-### Talk Assist
+### Talk Assist(springboot-talkassist)
 会話が苦手な人向けのWebアプリケーションです。
 キーワード入力から会話の話題をランダム生成します。
 
