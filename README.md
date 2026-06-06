@@ -4,7 +4,7 @@
 
 ## Skills
 
-- **Backend:** Java, Sprng Boot
+- **Backend:** Java, Spring Boot
 - **Frontend:** HTML / CSS, JavaScript
 - **Database:** MySQL
 - **Tools:** Git / GitHub
