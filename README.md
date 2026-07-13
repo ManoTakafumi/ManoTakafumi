@@ -42,10 +42,12 @@ Java / Spring Boot / HTML5/CSS3 / JavaScript
 
 
 ### 勤怠管理アプリ(springboot-attendanceapp-h2database)
-
+出勤・退勤のボタン入力により勤務時間の自動計算や遅刻・早退を⚪️や✖︎で管理できるアプリケーションです。<br>
+カレンダー実装により日付ごとに最新5件の勤怠履歴を管理可能です。<br>
+Spring Securityによるログイン認証によりユーザーごとに勤怠を管理可能です。<br>
 
 Tech Stack<br>
-Java / Spring Boot / HTML5/CSS3
+Java / Spring Boot / HTML5/CSS3 H2Database
 
 ## Contact
 
