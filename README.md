@@ -41,8 +41,8 @@ Tech Stack<br>
 Java / Spring Boot / HTML5/CSS3 / JavaScript
 
 
-### ナンプレアプリ
-ランダム生成機能付きの数独アプリケーションです。
+### 勤怠管理アプリ(springboot-attendanceapp-h2database)
+
 
 Tech Stack<br>
 Java / Spring Boot / HTML5/CSS3
